@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Trần Gia Bảo
+## Hi there 👋 I'm Bao Tran
 
 I'm learning full-stack development while expanding my capabilities in AI and Machine Learning.  
 I enjoy building practical projects and experimenting with intelligent features that enhance real-world applications.
