@@ -8,6 +8,8 @@
 
 📫 **Contact me via:** giabaokobe1904@gmail.com
 
+🌐 **My portfolio:** https://baotran019.github.io/
+
 <div align="left">
   <h3>Passionate about applying Information Technology to build cool things that solve real-world problems and enhance people's lives.</h3>
 </div>
