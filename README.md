@@ -6,7 +6,7 @@
 
 ### Final-year IT Student @ Saigon University | Aspiring Software Engineer
 
-📫 **Contact me via:** giabaokobe1904@gmail.com
+📫 **Contact me via:** trangiabao019.work@gmail.com
 
 🌐 **My portfolio:** https://baotran019.github.io/
 
