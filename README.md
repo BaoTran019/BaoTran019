@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Banner.png" alt="Profile Banner" width="100%" />
+<img src="Suamurai-sunset-banner.png" alt="Profile Banner" width="100%" />
 
 <br/>
 
